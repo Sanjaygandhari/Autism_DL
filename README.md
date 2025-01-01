@@ -13,7 +13,7 @@ Technical Highlights
  Dataset: Sourced from Kaggle, containing labeled images for training and testing.
 Tools Used:
           1.Programming Language: Python
-          2.Libraries: TensorFlow, Keras, NumPy, Streamlit
+          2.Libraries: TensorFlow, Keras, NumPy, Streamlit.
 Steps Involved:
 1.Data preprocessing and augmentation.
 2.Training and evaluating multiple DL models.
